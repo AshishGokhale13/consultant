@@ -1,0 +1,10 @@
+.bg-theme
+{
+    background-image:  linear-gradient(to right, rgba(0, 1, 2, 0.682), rgba(22, 9, 19, 0.728)),url('../../assets/images/bgtheme.jpg');
+    background-size: 100% 100%;
+}
+.bg-transperent
+{
+    background-color: rgba(91, 91, 91, 0.449);
+    color: white !important;
+}

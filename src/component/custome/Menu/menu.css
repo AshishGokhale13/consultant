@@ -1,0 +1,29 @@
+
+
+.hide
+{
+ display: none;
+ 
+}
+
+.dj
+{
+    transition: display 4s !important;
+
+}
+
+@keyframes show1
+{
+    0%
+    {
+        display: none;
+        height: 0px;
+        background-color: green;
+    }
+    100%
+    {
+        display: block;
+        background-color: red;
+    }
+}
+
